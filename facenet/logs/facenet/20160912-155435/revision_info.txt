@@ -1,0 +1,4 @@
+arguments: facenet_train.py
+--------------------
+git hash: 
+--------------------
